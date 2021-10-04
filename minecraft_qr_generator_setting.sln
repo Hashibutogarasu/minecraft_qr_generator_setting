@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minecraft_qr_generator_setting", "minecraft_qr_generator_setting\minecraft_qr_generator_setting.csproj", "{07FD371A-9414-4331-998B-9E2DB518AA3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MCQR-setting-installer", "MCQR-setting-installer\MCQR-setting-installer.vdproj", "{54B4F23C-CFCB-4981-A1B1-580E76BC26CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FD371A-9414-4331-998B-9E2DB518AA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FD371A-9414-4331-998B-9E2DB518AA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FD371A-9414-4331-998B-9E2DB518AA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FD371A-9414-4331-998B-9E2DB518AA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B4F23C-CFCB-4981-A1B1-580E76BC26CE}.Debug|Any CPU.ActiveCfg = Debug
+		{54B4F23C-CFCB-4981-A1B1-580E76BC26CE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7D71FB-5C2B-4F09-9E69-F2A4C51405F6}
+	EndGlobalSection
+EndGlobal
